@@ -1,0 +1,6 @@
+# RubyMotion OSX sample
+
+# Usage
+
+$ rake build:development
+$ ./build/MacOSX-10.8-Development/notification.app/Contents/MacOS/notification "hello"
